@@ -1,0 +1,62 @@
+body {
+  background-color: #1e1532;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+.row {
+  height: 600px;
+}
+.zz {
+  color: rgb(236, 42, 42);
+}
+.navbar,
+.bg-darl {
+  background-color: #1e1532;
+}
+.row {
+  align-items: center;
+  color: white;
+}
+
+h1 {
+  font-size: 300%;
+  font-weight: bold;
+}
+p {
+  font-size: 200%;
+}
+
+.carousel-indicators {
+  list-style: none;
+  bottom: -100px;
+}
+.carousel-indicators li,
+.carousel-indicators li.active {
+  width: 70px;
+  height: 70px;
+  background-color: rgba(255, 255, 255, 0);
+  position: relative;
+  margin: 10px;
+}
+.carousel-indicators img {
+  position: absolute;
+  width: 100%;
+  border-radius: 50%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.text-center {
+  bottom: -50px;
+  position: relative;
+}
+.made {
+  color: #979696;
+  bottom: -50px;
+}
+.ezz {
+  color: rgb(241, 229, 50);
+}
